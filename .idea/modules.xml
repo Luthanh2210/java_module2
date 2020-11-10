@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/ interset_rate/ interset_rate.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/ interset_rate/ interset_rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/BMI/BMI.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/Hello/Hello.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/KB_SNT/KB_SNT.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/KB_SNT/KB_SNT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/LinearEquationResolver/LinearEquationResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/RectangleProgram/RectangleProgram.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/RectangleProgram/RectangleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/SystemTime/SystemTime.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/SystemTime/SystemTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/choice/choice.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/choice/choice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/find_element/find_element.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/find_element/find_element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/greast_common_divisor/greast_common_divisor.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/greast_common_divisor/greast_common_divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_workT7/home_workT7.iml" filepath="$PROJECT_DIR$/home_workT7/home_workT7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_module2.iml" filepath="$PROJECT_DIR$/.idea/java_module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/leapyear/leapyear.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/leapyear/leapyear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/max/max.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/max/max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/min/min.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/min/min.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/moneyExchange/moneyExchange.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/moneyExchange/moneyExchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/month/month.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/month/month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/readNumber/readNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/reverse_element/reverse_element.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/reverse_element/reverse_element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/temp_exchange/temp_exchange.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/temp_exchange/temp_exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/untitled/untitled.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
