@@ -1,7 +1,7 @@
 public class primeNumber {
 
     public static void main(String[] args) {
-        System.out.println("prime number smaller than 100 is: ");
+        System.out.println("prime numbers less than 100 is: ");
         for (int i = 0; i < 100; i++) {
             if (isPrimeNumber(i)) {
                 System.out.print(i + " ");
