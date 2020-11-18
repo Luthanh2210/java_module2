@@ -2,7 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Abstract_Class&amp;Interface/thuc_hanh/bth2/pf-java-shape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Abstract_Class&amp;Interface/thuc_hanh/Shape/pf-java-shape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cleancode/thuc_hanh/th1/java-cleancode-refactoring-renaming" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cleancode/thuc_hanh/th2/java-cleancode-refactoring-variable-extraction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cleancode/thuc_hanh/th3/java-cleancode-refactoring-method-extraction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homeworkT7" vcs="Git" />

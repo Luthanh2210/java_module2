@@ -1,10 +1,11 @@
+
 import animal.Animal;
 import animal.Chicken;
 import animal.Tiger;
 import edible.Edible;
-import fruit.Apple;
 import fruit.Fruit;
 import fruit.Orange;
+import fruit.Apple;
 
 public class AbstractAndInterfaceTests {
     public static void main(String[] args) {
