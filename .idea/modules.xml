@@ -2,26 +2,42 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/ interset_rate/ interset_rate.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/ interset_rate/ interset_rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract_Class&amp;Interface/thuc_hanh/AbstractAndInterfaceTests/AbstractAndInterfaceTests.iml" filepath="$PROJECT_DIR$/Abstract_Class&amp;Interface/thuc_hanh/AbstractAndInterfaceTests/AbstractAndInterfaceTests.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/BMI/BMI.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Bai_tap/Geometry/Geometry.iml" filepath="$PROJECT_DIR$/Loop/Bai_tap/Geometry/Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/Hello/Hello.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/Hello/Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/KB_SNT/KB_SNT.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/KB_SNT/KB_SNT.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/LinearEquationResolver/LinearEquationResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/baitap/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/class/baitap/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/RectangleProgram/RectangleProgram.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/RectangleProgram/RectangleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/thuchanh/Retriangle/Retriangle.iml" filepath="$PROJECT_DIR$/class/thuchanh/Retriangle/Retriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static,method,propery/thuc_hanh/Shape/Shape.iml" filepath="$PROJECT_DIR$/static,method,propery/thuc_hanh/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static,method,propery/thuc_hanh/Static_property/Static_property.iml" filepath="$PROJECT_DIR$/static,method,propery/thuc_hanh/Static_property/Static_property.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/SystemTime/SystemTime.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/SystemTime/SystemTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/bai_tap/addElement/addElement.iml" filepath="$PROJECT_DIR$/array/bai_tap/addElement/addElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/choice/choice.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/choice/choice.iml" />
       <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/bai_tap/deleteElement/deleteElement.iml" filepath="$PROJECT_DIR$/array/bai_tap/deleteElement/deleteElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/bai_tap/findMinMax/findMinMax.iml" filepath="$PROJECT_DIR$/array/bai_tap/findMinMax/findMinMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/find_element/find_element.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/find_element/find_element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/greast_common_divisor/greast_common_divisor.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/greast_common_divisor/greast_common_divisor.iml" />
       <module fileurl="file://$PROJECT_DIR$/home_workT7/home_workT7.iml" filepath="$PROJECT_DIR$/home_workT7/home_workT7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/java_module2.iml" filepath="$PROJECT_DIR$/.idea/java_module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworkT7/homeworkT7.iml" filepath="$PROJECT_DIR$/homeworkT7/homeworkT7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/thuc_hanh/ interset_rate/interset_rate.iml" filepath="$PROJECT_DIR$/Loop/thuc_hanh/ interset_rate/interset_rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleancode/thuc_hanh/th3/java-cleancode-refactoring-method-extraction/java-cleancode-refactoring-method-extraction.iml" filepath="$PROJECT_DIR$/cleancode/thuc_hanh/th3/java-cleancode-refactoring-method-extraction/java-cleancode-refactoring-method-extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleancode/thuc_hanh/th2/java-cleancode-refactoring-variable-extraction/java-cleancode-refactoring-variable-extraction.iml" filepath="$PROJECT_DIR$/cleancode/thuc_hanh/th2/java-cleancode-refactoring-variable-extraction/java-cleancode-refactoring-variable-extraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/leapyear/leapyear.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/leapyear/leapyear.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/max/max.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/max/max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/bai_tap/merge_array/merge_array.iml" filepath="$PROJECT_DIR$/array/bai_tap/merge_array/merge_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/min/min.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/min/min.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/moneyExchange/moneyExchange.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/moneyExchange/moneyExchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/month/month.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/thuc_hanh/month/month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract_Class&amp;Interface/thuc_hanh/Shape/pf-java-shape/pf-java-shape.iml" filepath="$PROJECT_DIR$/Abstract_Class&amp;Interface/thuc_hanh/Shape/pf-java-shape/pf-java-shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Bai_tap/primeTest1/primeTest1.iml" filepath="$PROJECT_DIR$/Loop/Bai_tap/primeTest1/primeTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Bai_tap/primeTest2/primeTest2.iml" filepath="$PROJECT_DIR$/Loop/Bai_tap/primeTest2/primeTest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/gioi_thieu_ve_Java/bai_tap/readNumber/readNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/reverse_element/reverse_element.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/reverse_element/reverse_element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static,method,propery/thuc_hanh/static_method/static_method.iml" filepath="$PROJECT_DIR$/static,method,propery/thuc_hanh/static_method/static_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/temp_exchange/temp_exchange.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/temp_exchange/temp_exchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/thuc_hanh/untitled/untitled.iml" filepath="$PROJECT_DIR$/array/thuc_hanh/untitled/untitled.iml" />
     </modules>
